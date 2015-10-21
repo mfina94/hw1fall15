@@ -68,6 +68,7 @@ a. Implement a method `hello(name)` that takes a string representing a name and 
 
 b. Implement a method `starts_with_consonant?(s)` that takes a string and returns true if it starts
    with a consonant and false otherwise. (For our purposes, a consonant is any letter other than
+
    (A, E, I, O, U.) NOTE: be sure it works for both upper and lower case and for nonletters!
 
 c. Implement a method `binary_multiple_of_4?(s)` that takes a string and returns true if the string
